@@ -3,7 +3,7 @@
 
 Installer espeak(http://espeak.sourceforge.net/)
 
-Kjør ` %server.go ` via `go run server.go`
+Kjør `server.go ` via `go run server.go`
 
 Naviger til `localhost:8080/speech?text=input`
 
